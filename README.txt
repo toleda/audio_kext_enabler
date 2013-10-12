@@ -18,9 +18,8 @@ In ML, HDAEnabler12.kext supports
 Download
 1. https://github.com/toleda/audio_kext_enabler
 2. Select: HDAEnabler1.kext.zip or HDAEnabler2.kext.zip
-3. Select: Raw Data
-4. Select: Save
-5. Select: Use .zip
+3. Select: View Raw
+4. Select: Save as .zip
 
 Installation
 Install Downloads HDAEnabler1.kext or HDAEnabler2.kext (not both) with Terminal, DPCIManager, Kext Wizard, Kext Utility, etc.
