@@ -25,9 +25,7 @@ Installation
 Install Downloads HDAEnabler1.kext or HDAEnabler2.kext (not both) with Terminal, DPCIManager, Kext Wizard, Kext Utility, etc.
 
 Troubleshooting
-1. ML-Patched ALC AppleHDA Capabilities.pdf https://github.com/toleda/audio_ALCInjection
-2. Post to http://www.insanelymac.com/forum/topic/290796-realtek-alc-applehda-audio-injection/
-3. Post to http://www.tonymacx86.com/audio/76309-mountain-lion-multibeast-no-audio-solutions-problem-reporting.html
+1. See https://github.com/toleda/audio_ALCInjection/README.txt
 
 Credit
 Kabyl
